@@ -1,5 +1,5 @@
 You probably want to run
 
-sudo -H setup.py install
+sudo -H python3 setup.py install
 
 to install this package for all users
